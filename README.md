@@ -1,5 +1,9 @@
 # thesis-web-app
 
+## [Live Demo](https://huggingface.co/spaces/nobertpr/Thesis-LandCoverAI)
+History page is not available due to limitation of hugging face spaces for db file.
+
+## About
 This is a repository containing the web app used for my thesis. The app is created using streamlit for the frontend and fastapi for the backend.
 
 To run streamlit use:
