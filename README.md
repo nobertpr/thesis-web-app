@@ -1,5 +1,14 @@
 # thesis-web-app
 
+## About
+This repository contains the files for my thesis titled "Enhanced Aerial Image Segmentation for Land Cover Detection Using UNetFormer++: Integration in Nested UNet Models and Transformers". It includes everything necessary to run both the frontend and backend of the web app.
+
+The web app features three main pages:
+
+- Predict Page: Users can upload an image to receive its semantic segmentation using various models trained with the [training script](https://github.com/nobertpr/thesis-training-script).
+- History Page: Users can view, download, or delete previously segmented images and their corresponding semantic segmentations.
+- Maps Page: The semantic segmentation mask is overlaid on a Google Earth Engine Map for visual analysis.
+
 ## [Live Demo](https://huggingface.co/spaces/nobertpr/Thesis-LandCoverAI)
 History page is not available due to limitation of hugging face spaces for db file.
 
