@@ -1,0 +1,13 @@
+numpy
+torch
+lightning==1.9.5
+streamlit
+streamlit-aggrid
+streamlit-folium
+streamlit-image-comparison
+streamlit-modal
+torchmetrics
+torchvision
+uvicorn
+folium
+altair==4.2.0
