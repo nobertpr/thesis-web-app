@@ -1,6 +1,6 @@
 numpy
 torch
-lightning==1.9.5
+lightning==2.3.3
 streamlit
 streamlit-aggrid
 streamlit-folium
